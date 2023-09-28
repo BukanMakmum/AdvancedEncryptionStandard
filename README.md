@@ -1,5 +1,3 @@
-# AdvancedEncryptionStandard
-
 # Enkripsi dan Dekripsi AES
 
 Implementasi sederhana algoritma Advanced Encryption Standard (AES) menggunakan Python dan pustaka Tkinter untuk antarmuka pengguna grafis.
