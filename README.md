@@ -19,7 +19,7 @@ terlebih dahulu dikonversi menjadi matriks heksadesimal berukuran 4x4 yang diseb
 
 ## Fitur
 
-- Enkripsi dan Dekripsi menggunakan AES;
+- Enkripsi dan Dekripsi menggunakan AES 128 bit;
 - Input berupa 32 digit Heksadesimal (128 bit);
 - Output berupa 32 digit Heksadesimal (128 bit);
 - Validasi input key dan plaintext/ciphertext;
