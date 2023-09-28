@@ -20,8 +20,8 @@ terlebih dahulu dikonversi menjadi matriks heksadesimal berukuran 4x4 yang diseb
 ## Fitur
 
 - Enkripsi dan Dekripsi menggunakan AES;
-- Input berupa 32 digit Heksadesimal;
-- Output berupa 32 digit Heksadesimal;
+- Input berupa 32 digit Heksadesimal (128 bit);
+- Output berupa 32 digit Heksadesimal (128 bit);
 - Validasi input key dan plaintext/ciphertext;
 - Menampilkan dan simpan hasil Debug Result Enkripsi dan Dekripsi (Khusus v2.0.beta setelahnya)
 - Reset input; dan
@@ -69,7 +69,7 @@ terlebih dahulu dikonversi menjadi matriks heksadesimal berukuran 4x4 yang diseb
    x.x = nomor versi
    ```
 
-2. Masukkan teks biasa/teks sandi dan kunci dalam format heksadesimal.
+2. Masukkan 32 digit heksadesimal (128 bit) Plaintext/Ciphertext dan kunci.
 
 3. Klik tombol "Enkripsi" atau "Dekripsi" sesuai kebutuhan.
 
