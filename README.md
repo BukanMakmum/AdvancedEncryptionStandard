@@ -32,6 +32,10 @@ terlebih dahulu dikonversi menjadi matriks heksadesimal berukuran 4x4 yang diseb
   Plaintext:   00112233445566778899aabbccddeeff
   Key:         000102030405060708090a0b0c0d0e0f
   Ciphertext:  69c4e0d86a7b0430d8cdb78070b4c55a
+
+  Plaintext:   0123456789ABCDEF1123456789ABCDEF
+  Key:         6281377383082ABCDEF2204205010010
+  Ciphertext:  0507E8860F3C843C1F1291C65E984986
    ```
 
 ## Instalasi
@@ -73,7 +77,7 @@ terlebih dahulu dikonversi menjadi matriks heksadesimal berukuran 4x4 yang diseb
 
 ## Tangkapan Layar
 
-
+![hasil](https://github.com/BukanMakmum/AdvancedEncryptionStandard/assets/32379649/82ae22ac-3e7f-4df9-9378-39433aa1e754)
 
 ## Lisensi
 
