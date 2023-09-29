@@ -1,6 +1,7 @@
 # Enkripsi dan Dekripsi AES
 
-Implementasi sederhana algoritma Advanced Encryption Standard (AES) menggunakan Python dan pustaka Tkinter untuk antarmuka pengguna grafis.
+Implementasi sederhana algoritma Advanced Encryption Standard (AES) menggunakan Python dan pustaka Tkinter untuk antarmuka pengguna grafis. Advanced Encryption Standard (AES) versi Education merupakan skrip yang dikembangkan untuk pembelajaran proses enkripsi dan dekripsi menggunakan AES.
+
 
 ## Daftar Isi
 
@@ -14,10 +15,9 @@ Implementasi sederhana algoritma Advanced Encryption Standard (AES) menggunakan 
 
 ## Pendahuluan
 
-<p style="text-align: justify;">AES (Advanced Encryption Standard) adalah sebuah algoritma enkripsi kunci simetris yang digunakan secara luas untuk mengamankan data dalam berbagai aplikasi keamanan komputer. AES telah digunakan secara internasional sebagai pengganti algoritma DES (Data Encryption Standard) yang lebih lama. AES mendukung kunci enkripsi dengan panjang 128 bit, 192 bit, atau 256 bit. 
+AES (Advanced Encryption Standard) adalah sebuah algoritma enkripsi kunci simetris yang digunakan secara luas untuk mengamankan data dalam berbagai aplikasi keamanan komputer. AES telah digunakan secara internasional sebagai pengganti algoritma DES (Data Encryption Standard) yang lebih lama. AES mendukung kunci enkripsi dengan panjang 128 bit, 192 bit, atau 256 bit. 
 AES mengenkripsi data dalam blok-blok berukuran tetap, di mana panjang blok pesan adalah 128 bit. Pesan yang lebih panjang dibagi menjadi blok-blok 128 bit dan dienkripsi secara terpisah. AES menggunakan serangkaian putaran enkripsi, yang jumlahnya tergantung pada panjang kunci. Pada setiap putaran, data diubah menggunakan subkunci yang dihasilkan dari kunci utama. Operasi-operasi yang melibatkan substitusi, permutasi, dan XOR digunakan pada setiap putaran.
 Sebelum putaran pertama dan setelah putaran terakhir, terjadi inisialisasi awal (initial permutation) dan permutasi akhir (final permutation) pada blok pesan. Inisialisasi awal mengatur data awal ke dalam urutan tertentu, sedangkan permutasi akhir mengubahnya kembali ke urutan aslinya. AES dianggap sangat aman dan tahan terhadap serangan-serangan modern, bahkan dengan panjang kunci yang lebih pendek (128 bit).
-Advanced Encryption Standard (AES) Education merupakan implementasi sederhana dari AES dalam Python untuk tujuan pendidikan dan demonstrasi.</p>
 
 ## Fitur
 
