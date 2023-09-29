@@ -35,6 +35,10 @@ Implementasi sederhana algoritma Advanced Encryption Standard (AES) menggunakan 
   Plaintext:   0123456789ABCDEF1123456789ABCDEF
   Key:         6281377383082ABCDEF2204205010010
   Ciphertext:  0507E8860F3C843C1F1291C65E984986
+
+  Plaintext:   0123456789abcdeffedcba9876543210 
+  Key:         0f1571c947d9e8590cb7add6af7f6798
+  Ciphertext:  FF0B844A0853BF7C6934AB4364148FB9
    ```
 
 ## Instalasi
